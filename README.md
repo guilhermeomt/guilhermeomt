@@ -8,7 +8,7 @@ My name is Guilherme Tavares and I'm a 22 years old undergraduate computer scien
 <summary>About me &nbsp; <img src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width = 40px>
   </summary>
 
-- 🔭 I’m currently working on my [personal website](https://guilhermeomt.dev)
+- 🔭 I’m currently working on [my personal website](https://guilhermeomt.dev)
 - 🌱 I’m currently learning React and TypeScript
 - 💬 Talk to me about Front-end Development, JavaScript and Job Opportunities
 - ⭐ Besides programming, I'm passionate with football and music ⚽🎵
