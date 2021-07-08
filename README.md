@@ -47,6 +47,8 @@ My name is Guilherme Tavares and I'm a 22 years old undergraduate computer scien
 <summary>Lastest Blog Posts &nbsp; <img src="https://media.giphy.com/media/RH7HREzgpzUuWMeFJu/giphy.gif" width=30px>
 </summary>
   
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
   
