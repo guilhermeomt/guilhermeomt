@@ -8,7 +8,7 @@ My name is Guilherme Tavares and I'm a 22 years old undergraduate computer scien
 <summary>About me &nbsp; <img src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width = 40px>
   </summary>
 
-- 🔭 I’m currently working on my personal website
+- 🔭 I’m currently working on my [personal website](https://guilhermeomt.dev)
 - 🌱 I’m currently learning React and TypeScript
 - 💬 Talk to me about Front-end Development, JavaScript and Job Opportunities
 - ⭐ Besides programming, I'm passionate with football and music ⚽🎵
@@ -19,7 +19,7 @@ My name is Guilherme Tavares and I'm a 22 years old undergraduate computer scien
 <summary>Skills &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=15px>
 </summary>
   
-<br />
+<p></p>
 <a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=html&sort= > 
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
 </a>
@@ -44,13 +44,27 @@ My name is Guilherme Tavares and I'm a 22 years old undergraduate computer scien
 </details>
   
 <details open>
-<summary>Lastest Blog Posts &nbsp; <img src="https://media.giphy.com/media/RH7HREzgpzUuWMeFJu/giphy.gif" width=30px>
+<summary>Lastest Blog Posts <img src="https://media.giphy.com/media/RH7HREzgpzUuWMeFJu/giphy.gif" width=30px>
 </summary>
   
 <!-- BLOG-POST-LIST:START -->
  - 🇺🇸 [How I've built my frameworkless portfolio website: introduction (part 1/3)](https://dev.to/guilhermeomt/how-i-ve-built-my-frameworkless-portfolio-website-introduction-part-1-3-bo)<!-- BLOG-POST-LIST:END -->
 
 </details>
-  
 
-  
+<hr />
+
+<div>
+<a href="https://www.linkedin.com/in/guilherme-tavares-3b65541a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/guilhermeomt/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://github.com/guilhermeomt">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>  
+<a href="https://dev.to/guilhermeomt">
+  <img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devto&logoColor=white">
+</a>  
+</div>
