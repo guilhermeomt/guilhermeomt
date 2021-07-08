@@ -48,7 +48,7 @@ My name is Guilherme Tavares and I'm a 22 years old undergraduate computer scien
 </summary>
   
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 🇺🇸 [How I've built my frameworkless portfolio website: introduction (part 1/3)](https://dev.to/guilhermeomt/how-i-ve-built-my-frameworkless-portfolio-website-introduction-part-1-3-bo)<!-- BLOG-POST-LIST:END -->
 
 </details>
   
