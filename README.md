@@ -10,7 +10,7 @@ My name is Guilherme Oliveira Mussa Tavares and I'm a 22 years old undergraduate
 
 - 🔭 I’m currently working on [my personal website](https://guilhermeomt.dev)
 - 🌱 I’m currently learning React and TypeScript
-- 💬 Talk to me about Front-end Development, JavaScript and Job Opportunities
+- 💬 Talk to me about Front-end Development, JavaScript and Computer Science
 - ⭐ Besides programming, I'm passionate with football and music ⚽🎵
 
 </details>
