@@ -48,7 +48,7 @@ My name is Guilherme Oliveira Mussa Tavares and I'm a 22 years old undergraduate
 </summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 🇺🇸 [How I've built my frameworkless portfolio website: introduction (part 1/3)](https://dev.to/guilhermeomt/how-i-ve-built-my-frameworkless-portfolio-website-introduction-part-1-3-bo)<!-- BLOG-POST-LIST:END -->
+ - 🇺🇸 [How I&#39;ve built my frameworkless portfolio website: introduction &lpar;part 1/3&rpar;](https://dev.to/guilhermeomt/how-i-ve-built-my-frameworkless-portfolio-website-introduction-part-1-3-bo)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
