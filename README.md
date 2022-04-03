@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guilherme Oliveira Mussa Tavares and I'm a 22 years old undergraduate computer scientist from Brazil.
+My name is Guilherme Oliveira Mussa Tavares and I'm a 23 years old undergraduate computer scientist from Brazil.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
