@@ -29,11 +29,20 @@ My name is Guilherme Oliveira Mussa Tavares and I'm a 23 years old undergraduate
 <a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=javascript&sort= > 
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
 </a>
+<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=typescript&sort= > 
+  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
+</a>
 <a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=sass&sort= > 
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> 
 </a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=nodejs&sort= > 
+<a href=https://github.com/guilhermeomt?tab=repositories > 
+  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+</a>
+<a href=https://github.com/guilhermeomt?tab=repositories > 
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> 
+</a>
+<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=cpp&sort= > 
+  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
 </a>
 <a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=csharp&sort= > 
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> 
