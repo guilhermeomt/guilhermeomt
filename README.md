@@ -32,7 +32,7 @@ My name is Guilherme Oliveira Mussa Tavares and I'm a 23 years old undergraduate
 <a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=typescript&sort= > 
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
 </a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=sass&sort= > 
+<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=scss&sort= > 
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> 
 </a>
 <a href=https://github.com/guilhermeomt?tab=repositories > 
