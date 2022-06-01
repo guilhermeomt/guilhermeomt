@@ -5,7 +5,7 @@ My name is Guilherme Oliveira Mussa Tavares and I'm a 23 years old undergraduate
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <details open>
-<summary>About me &nbsp; <img src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width = 40px>
+<summary>About me &nbsp; <img src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width=15px height=15px>
   </summary>
 
 - 🔭 I’m currently working on [my personal website](https://guilhermeomt.dev)
@@ -16,7 +16,7 @@ My name is Guilherme Oliveira Mussa Tavares and I'm a 23 years old undergraduate
 </details>
 
 <details open>
-<summary>Skills &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=15px>
+<summary>Skills &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=15px height=15px>
 </summary>
   
 <p></p>
@@ -53,7 +53,7 @@ My name is Guilherme Oliveira Mussa Tavares and I'm a 23 years old undergraduate
 </details>
   
 <details open>
-<summary>Latest Blog Posts <img src="https://media.giphy.com/media/RH7HREzgpzUuWMeFJu/giphy.gif" width=30px>
+<summary>Latest Blog Posts <img src="https://media.giphy.com/media/RH7HREzgpzUuWMeFJu/giphy.gif" width=15px height=15px>
 </summary>
   
 <!-- BLOG-POST-LIST:START -->
