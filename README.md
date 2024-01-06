@@ -1,59 +1,35 @@
 ### Hi there 👋
 
-My name is Guilherme Oliveira Mussa Tavares and I'm a 23 years old undergraduate computer scientist from Brazil.
+My name is Guilherme Tavares and I'm a 24-year-old undergraduate computer scientist from Brazil.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <details open>
-<summary>About me &nbsp; <img src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width=15px height=15px>
+<summary>About me &nbsp;
   </summary>
 
-- 🔭 I’m currently working on [my personal website](https://guilhermeomt.dev)
-- 🌱 I’m currently learning React and TypeScript
-- 💬 Talk to me about Front-end Development, JavaScript and Computer Science
-- ⭐ Besides programming, I'm passionate with football and music ⚽🎵
+- Currently diving deep into Flutter and Dart 💙
+- I love discussing tech topics! Reach out to me for conversations about software engineering or anything tech-related
+- Besides programming, I'm passionate about football and music ⚽🎵
 
 </details>
 
 <details open>
-<summary>Skills &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=15px height=15px>
+<summary>Technologies &nbsp;
 </summary>
   
 <p></p>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=html&sort= > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=css&sort= > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=javascript&sort= > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=typescript&sort= > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=scss&sort= > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=cpp&sort= > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt?tab=repositories&q=&type=&language=csharp&sort= > 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> 
-</a>
-<a href=https://github.com/guilhermeomt> 
-  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-</a>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img width="440" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,dart,flutter,cs,dotnet,postgres,sqlite,git&theme=dark" />
+  </a>
+</p>
+
 </details>
   
-<details open>
-<summary>Latest Blog Posts <img src="https://media.giphy.com/media/RH7HREzgpzUuWMeFJu/giphy.gif" width=15px height=15px>
+<details>
+<summary>Latest Blog Posts
 </summary>
   
 <!-- BLOG-POST-LIST:START -->
