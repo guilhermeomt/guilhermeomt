@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guilherme Tavares and I'm a 24-year-old undergraduate computer scientist from Brazil.
+I'm Guilherme Tavares, a 25-year-old computer science undergraduate from Brazil.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -8,8 +8,8 @@ My name is Guilherme Tavares and I'm a 24-year-old undergraduate computer scient
 <summary>About me &nbsp;
   </summary>
 
-- Currently diving deep into Flutter and Dart 💙
-- I love discussing tech topics! Reach out to me for conversations about software engineering or anything tech-related
+- Currently diving deep into Dart and Flutter 💙
+- Feel free to connect with me for engaging discussions on tech topics, ranging from software engineering to handy keyboard shortcuts! 
 - Besides programming, I'm passionate about football and music ⚽🎵
 
 </details>
@@ -22,13 +22,13 @@ My name is Guilherme Tavares and I'm a 24-year-old undergraduate computer scient
 
 <p>
   <a href="https://skillicons.dev">
-    <img width="440" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,dart,flutter,cs,dotnet,postgres,sqlite,git&theme=dark" />
+    <img width="440" src="https://skillicons.dev/icons?i=dart,flutter,js,ts,nodejs,react,cs,dotnet,postgres,sqlite,git&theme=dark" />
   </a>
 </p>
 
 </details>
   
-<details>
+<details open>
 <summary>Latest Blog Posts
 </summary>
   
@@ -46,9 +46,6 @@ My name is Guilherme Tavares and I'm a 24-year-old undergraduate computer scient
 <a href="https://www.instagram.com/guilhermeomt/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://github.com/guilhermeomt">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>  
 <a href="https://dev.to/guilhermeomt">
   <img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devto&logoColor=white">
 </a>  
